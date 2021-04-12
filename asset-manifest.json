@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/narender-weds-shipra/static/css/main.f5f32d51.chunk.css",
+    "main.js": "/narender-weds-shipra/static/js/main.def13b31.chunk.js",
+    "main.js.map": "/narender-weds-shipra/static/js/main.def13b31.chunk.js.map",
+    "runtime-main.js": "/narender-weds-shipra/static/js/runtime-main.a94d12ad.js",
+    "runtime-main.js.map": "/narender-weds-shipra/static/js/runtime-main.a94d12ad.js.map",
+    "static/js/2.2e4aad1b.chunk.js": "/narender-weds-shipra/static/js/2.2e4aad1b.chunk.js",
+    "static/js/2.2e4aad1b.chunk.js.map": "/narender-weds-shipra/static/js/2.2e4aad1b.chunk.js.map",
+    "index.html": "/narender-weds-shipra/index.html",
+    "static/css/main.f5f32d51.chunk.css.map": "/narender-weds-shipra/static/css/main.f5f32d51.chunk.css.map",
+    "static/js/2.2e4aad1b.chunk.js.LICENSE.txt": "/narender-weds-shipra/static/js/2.2e4aad1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a94d12ad.js",
+    "static/js/2.2e4aad1b.chunk.js",
+    "static/css/main.f5f32d51.chunk.css",
+    "static/js/main.def13b31.chunk.js"
+  ]
+}
